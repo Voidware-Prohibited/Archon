@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "Archon",
+	"Description": "God-Mode, Admin, Moderation and Abraxas Integration",
+	"Category": "Other",
+	"CreatedBy": "Uriel Ballinas, VOIDWARE Prohibited",
+	"CreatedByURL": "https://voidwarex.com",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": true,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "Archon",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
