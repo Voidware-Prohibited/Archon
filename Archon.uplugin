@@ -3,13 +3,14 @@
 	"Version": 1,
 	"VersionName": "1.0",
 	"FriendlyName": "Archon",
-	"Description": "God-Mode, Admin, Moderation and Abraxas Integration",
+	"Description": "GAS-Based, Multiplayer God-Mode, Administration, Moderation and Authorization Layer.",
 	"Category": "Other",
 	"CreatedBy": "Uriel Ballinas, VOIDWARE Prohibited",
-	"CreatedByURL": "https://voidwarex.com",
-	"DocsURL": "",
-	"MarketplaceURL": "",
-	"SupportURL": "",
+	"CreatedByURL": "https://voidwarex.com/",
+	"DocsURL": "https://archon.voidwarex.com/docs",
+	"MarketplaceURL": "https://archon.voidwarex.com/",
+	"SupportURL": "https://github.com/Voidware-Prohibited/Archon/discussions",
+	"EngineVersion": "5.8.0",
 	"CanContainContent": true,
 	"IsBetaVersion": true,
 	"IsExperimentalVersion": false,
@@ -19,6 +20,12 @@
 			"Name": "Archon",
 			"Type": "Runtime",
 			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "GameplayAbilities",
+			"Enabled": true
 		}
 	]
 }
