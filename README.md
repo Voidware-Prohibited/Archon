@@ -23,7 +23,7 @@
 </p>
 
 > [!NOTE]
-> Following the acquisition of GitHub by Micro$lop, we have taken principled action and have begun primarily hosting code and content on [Codeberg](https://codeberg.org/Voidware-Prohibited/). Mirrors will still be maintained on [GitHub](https://github.com/Voidware-Prohibited/Archon/) and [GitLab](https://gitlab.com/Voidware-Prohibited/Archon/).
+> VOIDWARE Prohibited has begun hosting code and content primarily on [Codeberg](https://codeberg.org/Voidware-Prohibited/). Mirrors will still be maintained on [GitHub](https://github.com/Voidware-Prohibited/Archon/) and [GitLab](https://gitlab.com/Voidware-Prohibited/Archon/).
 
 GAS-Based, Multiplayer God-Mode, Administration, Moderation and Authorization Layer.
 
